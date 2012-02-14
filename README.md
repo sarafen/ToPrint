@@ -8,6 +8,6 @@ See [todo.txt][todo] 's tips on where/how to setup plugins.
 
 
 
-[id]: https://github.com/ginatrapani/todo.txt-cli/wiki/Creating-and-Installing-Add-ons "Installing Add ons"
+[todo]: https://github.com/ginatrapani/todo.txt-cli/wiki/Creating-and-Installing-Add-ons "Installing Add ons"
 
 
