@@ -4,7 +4,7 @@ A simple printer friendly Add-on that turns your todo.txt list into a printable 
 
 ## Setup/Installation
 
-See [todo.txt][todo] 's tips on where/how to setup plugins.
+See [todo.txt's][todo] tips on where/how to setup plugins.
 
 
 
